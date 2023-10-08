@@ -12,3 +12,9 @@
 ![image](https://github.com/satvik9934/weekly_test_3_JS/assets/87279121/2e76edfc-d0d3-44c4-8bd2-85147fbd5382)
 ![image](https://github.com/satvik9934/weekly_test_3_JS/assets/87279121/6b003588-7f22-45b5-8a57-2aa463dfc16a)
 
+# JS
+![image](https://github.com/satvik9934/weekly_test_3_JS/assets/87279121/c31dd72c-c78e-40e5-a710-6252fc8be242)
+![image](https://github.com/satvik9934/weekly_test_3_JS/assets/87279121/05b8e681-0e1f-4c00-8386-5007d646d60b)
+![image](https://github.com/satvik9934/weekly_test_3_JS/assets/87279121/5e8d7c6f-9b69-46c9-a15a-cf44aee17b3d)
+
+
